@@ -15,3 +15,6 @@
 - https://ibb.co/T11wVZV
 - https://ibb.co/x8JfWpn
 - https://ibb.co/YWCPf45
+
+# Download
+- https://github.com/Mr123keelos/WindowsPerformanceApplication-123keelos/releases

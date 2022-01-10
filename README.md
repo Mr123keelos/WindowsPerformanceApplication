@@ -18,8 +18,4 @@
 
 # Download
 - https://github.com/Mr123keelos/WindowsPerformanceApplication-123keelos/releases
-
-# Project Source
-- https://github.com/Mr123keelos/WindowsPerformanceApplication-123keelos/releases/tag/proj-src
-- Code for the software for those who are interested in looking at it.
-- Not for regular use. Please download the main EXE under Download label above.
+- Includes project source and VB code

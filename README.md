@@ -3,6 +3,15 @@
 - Requires admin access and a connection to the internet
 - You may get a false postive from your AV, this is because this program makes system changes that Windows does not like
 
+# Features
+- Block telnet domains
+- Automatic file cleaner
+- Enable high performance tweaks
+- Disable unwanted services that can cause slow down
+- Disable power saving
+- Reduce ping and latency
+- Lightweight, use then remove
+
 # WARNING
 - Changing the Windows system is not 100% safe. PLEASE MAKE A RESTORE POINT BEFORE USING THIS PROGRAM!
 - This program can cause instability in your Windows system. Please read everything!

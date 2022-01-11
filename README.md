@@ -2,7 +2,11 @@
 - Requires .NET Framework 6.0
 - Requires admin access and a connection to the internet
 - You may get a false postive from your AV, this is because this program makes system changes that Windows does not like
-- Please make a System Restore Point or back up before using this application
+
+# WARNING
+- Changing the Windows system is not 100% safe. PLEASE MAKE A RESTORE POINT BEFORE USING THIS PROGRAM!
+- This program can cause instability in your Windows system. Please read everything!
+- From personal experience, CMD Tweaks has improved my performance but caused a lot of instability so I do not use that on my own system. Everything else works wonderfully. THIS MIGHT NOT BE THE SAME CASE FOR YOU!
 
 # How to use
 - Download and run the .exe as an administrator
@@ -19,3 +23,5 @@
 # Download
 - https://github.com/Mr123keelos/WindowsPerformanceApplication-123keelos/releases
 - Includes project source and VB code
+
+~123keelos

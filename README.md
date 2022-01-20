@@ -1,5 +1,5 @@
 # WindowsPerformanceApplication-123keelos
-- Requires .NET Framework 6.0
+- Requires .NET Framework 6.0 (Windows 11)
 - Requires admin access and a connection to the internet
 - You may get a false postive from your AV, this is because this program makes system changes that Windows does not like
 

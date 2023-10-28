@@ -1,4 +1,4 @@
-# Windows Performance Application
+# (Outdated) Windows Performance Application
 - Check out the [Python Edition](https://github.com/Mr123keelos/Win11PerformanceApp-Python), will be maintaining that version instead
 - Requires .NET Framework 6.0 (Windows 11)
 - Requires admin access and a connection to the internet

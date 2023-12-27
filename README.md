@@ -1,14 +1,15 @@
 # (Outdated) Windows Performance Application
 - Check out the [Python Edition](https://github.com/Mr123keelos/Win11PerformanceApp-Python), will be maintaining that version instead
+  
 - Requires .NET Framework 6.0 (Windows 11)
 - Requires admin access and a connection to the internet
-- You may get a false postive from your AV, this is because this program makes system changes that Windows does not like
+- You may get a false positive from your AV, this is because this program makes system changes that Windows does not like
 
 # Features
 - Block telnet domains
 - Automatic file cleaner
-- Enable high performance tweaks
-- Disable unwanted services that can cause slow down
+- Enable high-performance tweaks
+- Disable unwanted services that can cause slow-down
 - Disable power saving
 - Reduce ping and latency
 - Lightweight, use then remove
